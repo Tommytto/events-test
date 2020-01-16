@@ -1,0 +1,13 @@
+.main-layout {
+  height: 100%;
+  background-color: #121212;
+  padding: 10px 20px;
+  color: wheat;
+  min-height: 100vh;
+
+  &__inner {
+    max-width: 1024px;
+    margin: auto;
+    height: 100%;
+  }
+}

@@ -1,0 +1,13 @@
+<main-layout class="event-list">
+    <header class="event-list__header">
+        <h1 class="event-list__title">Upcoming events</h1>
+        <app-button class="event-list__show-all">
+            View all
+        </app-button>
+    </header>
+    <div class="event-list__container">
+        <div class="event-list__event" ng-repeat="eventItem in eventList">
+            <event-card event="eventItem"></event-card>
+        </div>
+    </div>
+</main-layout>
