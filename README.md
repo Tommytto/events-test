@@ -1,7 +1,7 @@
-#AngularJS 1 test challenge app
+# AngularJS 1 test challenge app
 
-##To see
+## To see
 
-##To run locally
+## To run locally
 `npm ci`
 `npm start`
