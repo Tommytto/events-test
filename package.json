@@ -27,7 +27,7 @@
   "dependencies": {
     "@uirouter/angularjs": "^1.0.24",
     "angular": "^1.7.9",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "normalize.css": "^8.0.1"
   }
 }
